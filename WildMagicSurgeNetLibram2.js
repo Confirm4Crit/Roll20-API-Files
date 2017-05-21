@@ -10071,6 +10071,6 @@ var WildMagicSurgeNetLibram2Table = WildMagicSurgeNetLibram2Table || (function()
 
 on('ready', function() {
     'use strict';
-    WildMagicSurgeTable.CheckInstall();
-    WildMagicSurgeTable.RegisterEventHandlers();
+    WildMagicSurgeNetLibram2Table.CheckInstall();
+    WildMagicSurgeNetLibram2Table.RegisterEventHandlers();
 });
